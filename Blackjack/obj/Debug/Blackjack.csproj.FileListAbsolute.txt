@@ -1,0 +1,15 @@
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\bin\Debug\Blackjack.exe.config
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\bin\Debug\Blackjack.exe
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\bin\Debug\Blackjack.pdb
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\obj\Debug\Blackjack.exe
+\\et-fileserver\students\2026\evanhanrahan26\Desktop\C#\Unit 7\Project_1_Blackjack_CSharp-main\Project_1_Blackjack_CSharp-main\Blackjack\obj\Debug\Blackjack.pdb
+D:\Blackjack\bin\Debug\Blackjack.exe.config
+D:\Blackjack\bin\Debug\Blackjack.exe
+D:\Blackjack\bin\Debug\Blackjack.pdb
+D:\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+D:\Blackjack\obj\Debug\Blackjack.csproj.SuggestedBindingRedirects.cache
+D:\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+D:\Blackjack\obj\Debug\Blackjack.exe
+D:\Blackjack\obj\Debug\Blackjack.pdb
